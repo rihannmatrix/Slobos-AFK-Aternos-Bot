@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dsrihanbd.aternos.me",
+    "ip": "dsrihanbd.aternos.me:54957",
     "port": 54957,
     "version": "",
     "try-creative": false
